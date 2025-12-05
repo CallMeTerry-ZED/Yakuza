@@ -1,4 +1,4 @@
-[![Build status](https://github.com/networkprotocol/yakuza/workflows/CI/badge.svg)](https://github.com/networkprotocol/yakuza/actions?query=workflow%3ACI)
+[![Build status](https://github.com/networkprotocol/yojimbo/workflows/CI/badge.svg)](https://github.com/networkprotocol/yakuza/actions?query=workflow%3ACI)
 
 # yakuza
 
@@ -8,7 +8,7 @@ It's designed around the networking requirements of competitive multiplayer game
 
 Generally speaking, if you have a custom game engine written in C++ and you want to network your game, yakuza is a really good choice.
 
-![image](https://github.com/mas-bandwidth/yakuza/assets/696656/098935f2-ba2b-4540-8d7f-474acc7f2cd8)
+![image](https://github.com/mas-bandwidth/yojimbo/assets/696656/098935f2-ba2b-4540-8d7f-474acc7f2cd8)
 
 It has the following features:
 
@@ -29,16 +29,13 @@ yakuza is stable and production ready.
 You can get the latest source code by cloning it from github:
 
       git clone https://github.com/mas-bandwidth/yakuza.git
-
-Alternatively, you can download the latest [release](https://github.com/mas-bandwidth/yakuza/releases).
-
+      
 ## Author
 
 The author of this library is [Glenn Fiedler](https://www.linkedin.com/in/glenn-fiedler-11b735302/).
+I have editied it to be my own Networking Libaray.
 
 yakuza is built on top of other open source libraries by the same author: [netcode](https://github.com/mas-bandwidth/netcode), [reliable](https://github.com/mas-bandwidth/reliable), and [serialize](https://github.com/mas-bandwidth/serialize)
-
-If you find this software useful, please consider [sponsoring it](https://github.com/sponsors/mas-bandwidth). Thanks!
 
 ## License
 
