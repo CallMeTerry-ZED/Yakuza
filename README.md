@@ -32,7 +32,7 @@ You can get the latest source code by cloning it from github:
       
 ## Author
 
-The author of this library is [Glenn Fiedler](https://www.linkedin.com/in/glenn-fiedler-11b735302/).
+The Original author of this library(yojimbo) is [Glenn Fiedler](https://www.linkedin.com/in/glenn-fiedler-11b735302/).
 I have editied it to be my own Networking Libaray.
 
 yakuza is built on top of other open source libraries by the same author: [netcode](https://github.com/mas-bandwidth/netcode), [reliable](https://github.com/mas-bandwidth/reliable), and [serialize](https://github.com/mas-bandwidth/serialize)
